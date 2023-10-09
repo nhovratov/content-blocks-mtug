@@ -1,0 +1,6 @@
+name: hov/mtug-page
+typeName: 789
+prefixFields: true
+fields:
+  - identifier: new_field
+    type: Text

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<xliff version="1.0">
+	<file datatype="plaintext" original="messages" source-language="en" product-name="mtug-record">
+		<header/>
+		<body>
+			<trans-unit id="hov.mtug-record.title" xml:space="preserve">
+				<source>Content Block: mtug-record</source>
+			</trans-unit>
+			<trans-unit id="hov.mtug-record.description" xml:space="preserve">
+				<source>This is your content block description</source>
+			</trans-unit>
+			<trans-unit id="title.label" xml:space="preserve">
+				<source>Custom title</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

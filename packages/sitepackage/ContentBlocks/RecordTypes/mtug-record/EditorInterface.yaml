@@ -1,0 +1,10 @@
+name: hov/mtug-record
+table: mtug_record
+prefixFields: false
+labelField: title
+typeField: type
+typeName: mtug-1
+fields:
+  -
+    identifier: title
+    type: Text

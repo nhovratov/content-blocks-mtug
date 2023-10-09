@@ -1,0 +1,13 @@
+<cb:asset.css identifier="content-block-css-hov-mtug-element" file="Frontend.css"/>
+<cb:asset.script identifier="content-block-js-hov-mtug-element" file="Frontend.js"/>
+
+Frontend template for Content Block: hov/mtug-element<br>
+Header: {data.header}
+
+<f:debug>{_all}</f:debug>
+<f:for each="{data.collection}" as="item">
+    Item: {item.text}<br>
+</f:for>
+ColPos: {data.colPos}
+
+<h2><cb:translate key="hov.mtug-element.title" /></h2>

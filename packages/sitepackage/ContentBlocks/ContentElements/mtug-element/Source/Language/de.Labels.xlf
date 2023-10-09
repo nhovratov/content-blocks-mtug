@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<xliff version="1.0">
+	<file datatype="plaintext" original="messages" source-language="en" product-name="mtug-element">
+		<header/>
+		<body>
+			<trans-unit id="hov.mtug-element.title" xml:space="preserve">
+				<source>Content Block: mtug-element</source>
+			</trans-unit>
+			<trans-unit id="hov.mtug-element.description" xml:space="preserve">
+				<source>This is your content block description</source>
+			</trans-unit>
+			<trans-unit id="header.label" xml:space="preserve">
+				<source>Custom header title</source>
+			</trans-unit>
+			<trans-unit id="header.description" xml:space="preserve">
+				<source>Meine Beschreibung</source>
+			</trans-unit>
+			<trans-unit id="number.label" xml:space="preserve">
+				<source>Meine Number</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

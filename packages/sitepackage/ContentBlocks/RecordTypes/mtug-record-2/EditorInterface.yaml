@@ -1,0 +1,13 @@
+name: hov/mtug-record-2
+table: mtug_record
+prefixFields: false
+labelField: title
+typeField: type
+typeName: mtug-2
+fields:
+  -
+    identifier: title
+    type: Text
+  -
+    identifier: text
+    type: Textarea

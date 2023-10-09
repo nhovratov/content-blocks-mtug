@@ -1,0 +1,27 @@
+name: hov/mtug-element
+group: common
+prefixFields: false
+basics:
+  - Vendor/YourBasic
+  - TYPO3/Appearance
+fields:
+  -
+    identifier: header
+    useExistingField: true
+  - identifier: number
+    type: Number
+  - identifier: textarea
+    type: Textarea
+    enableRichtext: true
+  - identifier: collection
+    type: Collection
+    fields:
+      - identifier: text
+        type: Text
+  - identifier: pi_flexform
+    useExistingField: true
+    fields:
+      - identifier: header
+        type: Text
+      - identifier: check
+        type: Checkbox
