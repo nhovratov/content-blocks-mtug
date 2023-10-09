@@ -1,0 +1,19 @@
+{
+	"name": "nikita/sitepackage",
+	"description": "Test Package for content blocks",
+	"type": "typo3-cms-extension",
+	"authors": [
+		{
+			"name": "Nikita Hovratov",
+			"email": "nikita.h@live.de"
+		}
+	],
+	"require": {
+		"typo3/cms-content-blocks": "13.0.*@dev"
+	},
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "sitepackage"
+		}
+	}
+}
